@@ -1,0 +1,9 @@
+[submodule "arenas"]
+	path = arenas
+	url = https://github.com/LegendZero/TMMP_Arenas.git
+[submodule "gametypes"]
+	path = gametypes
+	url = https://github.com/LegendZero/TMMP_Gametypes.git
+[submodule "playlists"]
+	path = playlists
+	url = https://github.com/LegendZero/TMMP_Playlists.git
